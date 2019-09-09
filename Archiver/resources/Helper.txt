@@ -1,0 +1,54 @@
+JavaZipArchiver(jzip) Release by Sivashchenko Pavel
+Version 0.0.1 Beta
+
+Usage 1: java -jar jzip.jar -h | -v
+    -h             Displays the JavaZipArchiver version and the
+                   usage help.
+    -v             Displays the JavaZipArchiver version.
+
+Usage 2: java -jar jzip.jar [[<option>] [<arguments>] ]
+
+    <option> is:  -x | -a | -i | -ac | -ic | -r :
+
+    -x            Use JavaZipArchiver to unarchive zip file.
+
+    -a            Use JavaZipArchiver to archive. Note: deletes archive with same name before.
+
+    -i            Use JavaZipArhiver to add(insert) files to existing archive. When adding file with same name take into consideration, that it will rewrite old file. Note: if archive
+                  file doesn't exist then creates it.
+
+    -ac           Use JavaZipArchiver to archive and create comment. Note: deletes archive with same name before.
+
+    -ic           Use JavaZipArhiver to add(insert) comments to existing archive.
+
+    -r            Read comments from archive.
+
+
+
+   <arguments> are: <zip_name> <file> <file> <file> .. <file> | <zip_name> <directory_name>| <zip_name> <comment> | <zip_name> <comment> <file> <file> <file> .. <file>
+
+   <zip_name>        Name of (existing) zip archive
+
+   <file>            Filename which will be put(or added) to archive.
+
+   <directory_name>  Name of directory to unzip the archive. It can be empty: directory name will be the same as the working directory.
+
+   <comment>         Comment to archive.
+
+   Commands list:
+
+   java -jar jzip.jar -h
+
+   java -jar jzip.jar -v
+
+   java -jar jzip.jar -x <zip_name> (<path>)
+
+   java -jar jzip.jar -a <zip_name> <file> <file> <file> .. <file>
+
+   java -jar jzip.jar -i <zip_name> <file> <file> <file> .. <file>
+
+   java -jar jzip.jar -ac <zip_name> <comment> <file> <file> <file> .. <file>
+
+   java -jar jzip.jar -ic <zip_name> <comment>
+
+   java -jar jzip.jar -r <zip_name>

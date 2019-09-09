@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee1a049e-6e87-4fae-82cf-26d1b75f5e82" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Archiver/.idea/artifacts/Archiver_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archiver/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archiver/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archiver/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archiver/resources/Helper.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archiver/resources/Versioner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archiver/src/ru/netcrackeredu/Sivashchenko/Archiver/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archiver/src/ru/netcrackeredu/Sivashchenko/Archiver/ArchiveExitConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archiver/src/ru/netcrackeredu/Sivashchenko/Archiver/ArchiveManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archiver/src/ru/netcrackeredu/Sivashchenko/Archiver/ArchiveMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archiver/src/ru/netcrackeredu/Sivashchenko/Archiver/CommentAdder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archiver/src/ru/netcrackeredu/Sivashchenko/Archiver/CommentReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archiver/src/ru/netcrackeredu/Sivashchenko/Archiver/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archiver/src/ru/netcrackeredu/Sivashchenko/Archiver/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archiver/src/ru/netcrackeredu/Sivashchenko/Archiver/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archiver/src/ru/netcrackeredu/Sivashchenko/Archiver/Unzipper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archiver/src/ru/netcrackeredu/Sivashchenko/Archiver/Versioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archiver/src/ru/netcrackeredu/Sivashchenko/Archiver/WrongModeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archiver/src/ru/netcrackeredu/Sivashchenko/Archiver/ZipUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archiver/src/ru/netcrackeredu/Sivashchenko/Archiver/Zipper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/resources/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Archiver/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Archiver/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Archiver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Archiver/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Archiver/out/production/Archiver/ArrayFun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Archiver/out/production/Archiver/Checker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Archiver/out/production/Archiver/Footman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Archiver/out/production/Archiver/Function.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Archiver/out/production/Archiver/Lambdas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Archiver/out/production/Archiver/META-INF/Archiver.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Archiver/out/production/Archiver/Orderable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Archiver/out/production/Archiver/Regexpr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Archiver/out/production/Archiver/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Archiver/src/Footman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Archiver/src/Lambdas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Archiver/src/Regexpr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Archiver/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/netcrackeredu/SivaschenkoPavel/consoleCalc/Calc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/netcrackeredu/SivaschenkoPavel/consoleCalc/Calc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatasks/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javatasks/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatasks/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javatasks/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javatasks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatasks/javatasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../javatasks/javatasks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatasks/out/production/javatasks/ru/skillbench/tasks/javaapi/collections/TreeNodeImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javatasks/out/production/javatasks/ru/skillbench/tasks/javaapi/collections/TreeNodeImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javatasks/src/test/Reflections.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javatasks/src/test/Reflections.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="155" />
+    <option name="y" value="35" />
+    <option name="width" value="785" />
+    <option name="height" value="819" />
+  </component>
+  <component name="ProjectId" id="1PZ0mAmur9EYnnfqcxEvqkR7dtT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javatasks" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\ConsoleCalc\src\ru\netcrackeredu\SivaschenkoPavel\consoleCalculator" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.netcrackeredu.SivaschenkoPavel.consoleCalc.Main" />
+      <module name="ConsoleCalc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ru/netcrackeredu/SivaschenkoPavel/consoleCalc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netcrackeredu.SivaschenkoPavel.consoleCalc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee1a049e-6e87-4fae-82cf-26d1b75f5e82" name="Default Changelist" comment="" />
+      <created>1564862351767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564862351767</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/netcrackeredu/SivaschenkoPavel/consoleCalc/CalcScanner.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/netcrackeredu/SivaschenkoPavel/consoleCalc/CalcScanner.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/netcrackeredu/SivaschenkoPavel/consoleCalc/CalcScanner.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/netcrackeredu/SivaschenkoPavel/consoleCalc/CalcScanner.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/netcrackeredu/SivaschenkoPavel/consoleCalc/CalcScanner.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/netcrackeredu/SivaschenkoPavel/consoleCalc/CalcScanner.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/netcrackeredu/SivaschenkoPavel/consoleCalc/CalcScanner.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/netcrackeredu/SivaschenkoPavel/consoleCalc/CalcScanner.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/netcrackeredu/SivaschenkoPavel/consoleCalc/CalcScanner.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/netcrackeredu/SivaschenkoPavel/consoleCalc/CalcScanner.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/netcrackeredu/SivaschenkoPavel/consoleCalc/Main.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
