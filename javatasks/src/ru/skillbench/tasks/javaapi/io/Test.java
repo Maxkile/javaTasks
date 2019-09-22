@@ -4,7 +4,7 @@ import org.w3c.dom.ls.LSOutput;
 
 import java.io.*;
 import java.util.stream.Stream;
-import com.jogamp.*;
+
 class AddThread implements Runnable{
     private WordFinderImpl wf;
 
@@ -28,8 +28,8 @@ public class Test {
         WordFinderImpl wf = new WordFinderImpl();
 //        FileInputStream sr = new FileInputStream(new File("Test"));
 //        wf.setInputStream(System.in);
-//        wf.setResource("Test");
-        wf.setFilePath("D:\\java\\tasks\\javatasks\\src\\ru\\skillbench\\tasks\\javaapi\\io\\Test.java");
+//        wf.setResource("Test");0
+        wf.setFilePath("/home/maxkile/Docs/Progs/git/java/javatasks/src/ru/skillbench/tasks/javaapi/io/Test");
         wf.findWordsStartWith("pu");
         wf.writeWords(new FileOutputStream(new File("S")));
 //        System.out.println(wf.getText());
